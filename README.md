@@ -1,2 +1,2 @@
 # CriCard
-Cricket Scorecard Application
+## Cricket Scorecard Application
